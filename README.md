@@ -14,5 +14,5 @@ py -m pip install mutagen
 ```
 
 # Screenshots
-![Website Large](/Screenshots/PlaylistDownloader.jpg)
-![Website Small](/Screenshots/Responsive.jpg)
+![Website Large](Screenshots/PlaylistDownloader.jpg)
+![Website Small](Screenshots/Responsive.jpg)
